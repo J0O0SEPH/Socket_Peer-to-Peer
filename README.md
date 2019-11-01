@@ -11,5 +11,5 @@ Code compiled using "GCC"
 
 Using command line 
 
-    "./PeerToPeer <**first**-port-number> localhost <**second**-port-number>		--> in one of the communicating terminals.
-    "./PeerToPeer <**second**-port-number> localhost <**first**-port-number> <initial value to be doubled between servers>		--> in the other communicating terminals.
+    "./PeerToPeer <**first**-port-number> localhost <**second**-port-number>		--> in one of the communicating terminal.
+    "./PeerToPeer <**second**-port-number> localhost <**first**-port-number> <initial value to be doubled between servers>		--> in the other communicating terminal.
